@@ -7,7 +7,7 @@
 </p>
 
 > ### A coding color pallete theme based on Halcyon color scheme.
-misllwmv5pvebajhcszeizip7ka4pn3k22cqg22grbalyqqg5b6q
+
 <p align="center">
     <a href="">
         <img src="https://img.shields.io/badge/Made%20by%20Satvik%20Virmani-000000?style=for-the-badge">
