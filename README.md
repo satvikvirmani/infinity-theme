@@ -22,10 +22,10 @@
 
 ## Installation
 1. Open Extensions sidebar panel in VS Code. View → Extensions
-2. Search for Halcyon
+2. Search for Infinity Theme
 3. Click Install to install it
 4. Click Reload to reload the editor
-5. Code > Preferences > Color Theme > Halcyon
+5. Code > Preferences > Color Theme > Infinity Theme
 
 ## Setting for best experience
 
