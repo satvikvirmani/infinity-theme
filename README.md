@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/satvikvirmani/infinity-theme?color=000000&logoColor=000000&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/satvikvirmani/infinity-theme?label=license&color=000000&logoColor=000000&style=for-the-badge">
   <img src="https://img.shields.io/github/issues/satvikvirmani/infinity-theme?color=000000&logoColor=000000&style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/satvikvirmani/infinity-theme?color=000000&logoColor=000000&style=for-the-badge">
 </p>
