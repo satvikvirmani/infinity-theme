@@ -1,0 +1,47 @@
+{
+  "name": "infinity-theme",
+  "displayName": "Infinity Theme",
+  "description": "A coding color pallete theme based on Halcyon color scheme",
+  "version": "0.0.1",
+  "publisher": "satvikvirmani",
+  "icon": "assets/1x/icon@128px.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": {
+    "name": "Satvik Virmani",
+    "email": "virmanisatvik01@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satvikvirmani/infinity-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/satvikvirmani/infinity-theme/issues",
+    "email": "virmanisatvik01@gmail.com"
+  },
+  "homepage": "https://github.com/satvikvirmani/infinity-theme/blob/master/README.md",
+  "galleryBanner": {
+    "color": "#1d2433",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Infinity"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Infinity",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Infinity-color-theme.json"
+      }
+    ]
+  }
+}
